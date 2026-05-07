@@ -1,0 +1,30 @@
+[
+  {
+    "csv_relative_url": "Olist-project/refs/heads/main/olist_customers_dataset.csv",
+    "File_name": "olist_customers_dataset.csv"
+  },
+  {
+    "csv_relative_url": "Olist-project/refs/heads/main/olist_geolocation_dataset_compressed.csv",
+    "File_name": "olist_geolocation_dataset_compressed.csv"
+  },
+  {
+    "csv_relative_url": "Olist-project/refs/heads/main/olist_order_items_dataset.csv",
+    "File_name": "olist_order_items_dataset.csv"
+  },
+  {
+    "csv_relative_url": "Olist-project/refs/heads/main/olist_order_reviews_dataset.csv",
+    "File_name": "olist_order_reviews_dataset.csv"
+  },
+  {
+    "csv_relative_url": "Olist-project/refs/heads/main/olist_orders_dataset.csv",
+    "File_name": "olist_orders_dataset.csv"
+  },
+  {
+    "csv_relative_url": "Olist-project/refs/heads/main/olist_products_dataset.csv",
+    "File_name": "olist_products_dataset.csv"
+  },
+  {
+    "csv_relative_url": "Olist-project/refs/heads/main/olist_sellers_dataset.csv",
+    "File_name": "olist_sellers_dataset.csv"
+  }
+]
